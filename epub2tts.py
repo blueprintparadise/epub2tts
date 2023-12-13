@@ -13,7 +13,7 @@ from ebooklib import epub
 from fuzzywuzzy import fuzz
 from newspaper import Article
 import noisereduce
-from openai import OpenAI
+#from openai import OpenAI
 from pedalboard import Pedalboard, Compressor, Gain, NoiseGate, LowShelfFilter
 from pedalboard.io import AudioFile
 from pydub import AudioSegment
